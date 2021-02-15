@@ -1,0 +1,10 @@
+.Navbar {
+	margin: 1rem;
+}
+
+.Navbar-link {
+	margin: 1rem;
+}
+.active {
+	font-weight: bold;
+}
